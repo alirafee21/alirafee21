@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on contributing to Open Source projects.
+- 🌱 I’m currently learning C# and Machine learning with Python
+- 👯 I’m looking to collaborate on C# or Python projects
+- 😄 Pronouns: He/Him
+-⚡ Fun fact: pure distilled water freezed at 0°C
+
 <!--
 **alirafee21/alirafee21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
