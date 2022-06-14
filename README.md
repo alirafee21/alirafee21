@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning C# and Machine learning with Python
 - 👯 I’m looking to collaborate on C# or Python projects
 - 😄 Pronouns: He/Him
+- 
 -⚡ Fun fact: pure distilled water freezed at 0°C
 
 <!--
