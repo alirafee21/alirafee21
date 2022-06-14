@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on contributing to Open Source projects.
 - 🌱 I’m currently learning C# and Machine learning with Python
 - 👯 I’m looking to collaborate on C# or Python projects
+- 👀 I'm currently looking for SWE internships 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: pure distilled water freezes at 0°C
 
